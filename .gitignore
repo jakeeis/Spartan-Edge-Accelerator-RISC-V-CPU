@@ -1,0 +1,6 @@
+RiscV.cache/
+RiscV.gen/
+RiscV.hw/
+RiscV.ip_user_files/
+RiscV.runs/
+RiscV.sim/
